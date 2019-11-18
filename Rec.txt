@@ -1,0 +1,118 @@
+("Plankton") + ("Fire") = ("Ash")
+("Ash") + ("Life") = ("Spirit")
+("Spirit") + ("Evil") = ("Demon")
+("Demon") + ("Telepaty") + ("Speech") + ("Fire") = ("Devil")
+
+("Plankton") + ("Tail") = ("Fish")
+
+("Fish") + ("Death") = ("Corp")
+
+("Corp") + ("Life") = ("Zombie")
+
+("Zombie") + ("Brain") = ("Vampire")
+
+("Vampire") + ("Fire") = ("Ash")
+
+("Vampire") + ("Death") = ("Ghost")
+
+("Ghost") + ("Speech") + ("Evil") = ("LichKing")
+
+("Zombie") + ("Fire") = ("Torch")
+
+("Zombie") + ("Darkness") = ("Evil")
+
+("Fish") + ("Legs") + ("Clows") = ("Crocodile")
+
+("Crocodile") + ("Death") = ("Corp")
+
+("Crocodile") + ("Hands") + ("Teeth") = ("Tyrex")
+
+("Tyrex") + ("Death") = ("Corp")
+
+("Tyrex") + ("Wings") + ("Brain") = ("Dragon")
+
+("Dragon") + ("Death") = ("Corp")
+
+("Dragon") + ("Fire") = ("FireLizard")
+
+("FireLizard") + ("Death") = ("Corp")
+
+("Crocodile") + ("Wings") = ("Pterodak")
+
+("Pterodak") + ("Death") = ("Corp")
+
+("Pterodak") + ("Hairs") = ("Bird")
+
+("Bird") + ("Death") = ("Corp")
+
+("Bird") + ("Clows") + ("Brain") = ("Grifon")
+
+("Grifon") + ("Death") = ("Corp")
+
+("Bird") + ("Fire") = ("Fenix")
+
+("Fenix") + ("Death") = ("Life")
+
+("Crocodile") + ("Hairs") = ("Mutant")
+
+("Fish") + ("Wings") = ("FlyingFish")
+
+("FlyingFish") + ("Death") = ("Corp")
+
+("Fish") + ("Hairs") = ("Mutant")
+
+("Mutant") + ("Death") = ("Corp")
+
+("Mutant") + ("Telepathy") = ("UFOMen")
+
+("UFOMen") + ("Death") = ("Corp")
+
+("UFOMen") + ("Evil") = ("Alien")
+
+("Mutant") + ("Teeth") + ("Brain") + ("Hairs") = ("Yetti")
+
+("Yetti") + ("Evil") = ("SnowTroll")
+
+("Yetti") + ("Death") = ("Corp")
+
+("Fish") + ("Speech") + ("Hands") + ("Telepaty") = ("Poseidon")
+
+("Poseidon") + ("Death") = ("Corp")
+
+("Plankton") + ("Hands") = ("Octopus")
+
+("Octopus") + ("Death") = ("Corp")
+
+("Octopus") + ("Teeth") + ("Clows") = ("Kraken")
+
+("Kraken") + ("Death") = ("Corp")
+
+("Octopus") + ("Legs") + ("Chitin") = ("Crab")
+
+("Crab") + ("Death") = ("Corp")
+
+("Crab") + ("Wings") = ("Monster")
+
+("Monster") + ("Death") = ("Corp")
+
+("Octopus") + ("Chitin") = ("Shrimp")
+
+("Shrimp") + ("Death") = ("Corp")
+
+("Shrimp") + ("Wings") = ("Monster")
+
+("Monster") + ("Brain") + ("Legs") + ("Evil") = ("EvilGenius")
+
+("EvilGenius") + ("Death") = ("Corp")
+
+("Octopus") + ("Brain") = ("Scuid")
+
+("Scuid") + ("Death") = ("Corp")
+
+("Scuid") + ("Hands") + ("Evil") = ("Boogeyman")
+
+("Scuid") + ("Wings") + ("Speech") + ("Evil") = ("Cthulhu")
+
+("Cthulhu") + ("Life") = ("Armageddon")
+
+("Octopus") + ("Legs") + ("Speech") + ("Brain") = ("DavyJones")

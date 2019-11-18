@@ -1,0 +1,1 @@
+adt -package -target apk -storetype pkcs12 -keystore ../codesign.p12 myApp.apk myApp.air
