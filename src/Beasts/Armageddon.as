@@ -1,0 +1,44 @@
+package Beasts 
+{
+	import starling.core.Starling;
+	import starling.display.MovieClip;
+	import starling.text.TextField;
+	import starling.textures.Texture;
+	import starling.textures.TextureAtlas;
+	import starling.utils.Color;
+	/**
+	 * ...
+	 * @author injer
+	 */
+	public class Armageddon extends Cell
+	{
+		[Embed(source = "/../res/beasts/Armageddon/test.png")]
+		const TestBall: Class;
+		[Embed(source="/../res/beasts/Armageddon/test.xml", mimeType="application/octet-stream")]
+		const TestBallXML:Class;
+		
+		public function Armageddon(rad: int) 
+		{
+			this.width = rad * 2;
+			this.height = rad * 2;
+			var tex = Texture.fromBitmap(new TestBall());
+			var xml: XML = XML(new TestBallXML());
+			var textAtlas: TextureAtlas = new TextureAtlas(tex, xml);
+			var frames: Vector.<Texture> = textAtlas.getTextures("greebo-");
+			mainClip = new MovieClip(frames, 60);
+			mainClip.width = rad * 2;
+			mainClip.height = rad * 2;
+			mainClip.pivotX = mainClip.width;// / 2;
+			mainClip.pivotY = mainClip.height;// / 2;
+			Starling.juggler.add(mainClip);
+			addChild(mainClip);
+			var text: TextField = new TextField(rad*2, rad*2, "Armageddon","Verdana",12,Color.argb(100,0,255,0));
+			text.x = -rad;
+			text.y = -rad;
+			addChild(text);
+			type = "Armageddon";
+		}
+		
+	}
+
+}
