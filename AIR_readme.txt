@@ -18,3 +18,5 @@ AIR for desktop instructions
 4. Packaging for release:
 
 	- run 'PackageApp.bat' to only create the AIR setup
+
+And some more
